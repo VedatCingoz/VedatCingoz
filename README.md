@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @VedatCingoz
-- 👀 I’m interested in programming and video games
-- 🌱 I’m currently learning how to program with C#
 - 📫 How to reach me: vedatcingoz1@gmail.com
 
 <!---
